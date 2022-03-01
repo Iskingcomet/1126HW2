@@ -1,0 +1,16 @@
+Tweet with : 1000 found at index 0
+1000 (Pos): Now all @Apple has to do is get swype on the iphone and it will be crack. Iphone that is
+
+Tweet with : 1005 found at index 1
+1005 (Pos): @Apple will be adding more carrier support to the iPhone 4S (just announced)
+
+Tweet with : 1804 found at index 250
+1804 (Neg): RT @RedDeerSteph: @Joelplane @apple I hear you! I've had trouble with my 3 & now 4. I've even turned down brightness. #andshuttingdownru ...
+
+Tweet with : 2499 found at index 476
+2499 (Neg): RT @gdcurry: Really @Apple?  What have you done to my iTunes now?  I can't click on Music Movies TV Shows or any playlists. I get a l ...
+
+Tweet with : 2504 found at index 477
+2504 (Neg): DAMN YOU !!! @apple
+
+Tweet with id 2800 was not found on the list
